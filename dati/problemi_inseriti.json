@@ -1,0 +1,46 @@
+[
+ {
+  "tipo": "totale_non_quadra",
+  "numero": "340/2025",
+  "differenza": "-0.02"
+ },
+ {
+  "tipo": "totale_non_quadra",
+  "numero": "143/2025",
+  "differenza": "-0.02"
+ },
+ {
+  "tipo": "totale_non_quadra",
+  "numero": "235/2025",
+  "differenza": "10.00"
+ },
+ {
+  "tipo": "totale_non_quadra",
+  "numero": "399/2025",
+  "differenza": "120.00"
+ },
+ {
+  "tipo": "nota_senza_riferimento",
+  "numero": "414/2025"
+ },
+ {
+  "tipo": "nota_senza_riferimento",
+  "numero": "404/2025"
+ },
+ {
+  "tipo": "non_valido_schema",
+  "numero": "93/2025"
+ },
+ {
+  "tipo": "file_duplicato",
+  "numero": "339/2025"
+ },
+ {
+  "tipo": "file_duplicato",
+  "numero": "95/2025"
+ },
+ {
+  "tipo": "file_duplicato",
+  "numero": "330/2025"
+ }
+]

@@ -1,0 +1,585 @@
+[
+ {
+  "id": "C001",
+  "nome": "ENOTECA DEMO 001",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010010007",
+  "comune": "Milano",
+  "prov": "MI"
+ },
+ {
+  "id": "C002",
+  "nome": "ENOTECA DEMO 002",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010020006",
+  "comune": "Asti",
+  "prov": "AT"
+ },
+ {
+  "id": "C003",
+  "nome": "ENOTECA DEMO 003",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010030005",
+  "comune": "Mondovì",
+  "prov": "CN"
+ },
+ {
+  "id": "C004",
+  "nome": "ENOTECA DEMO 004",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010040004",
+  "comune": "Savona",
+  "prov": "SV"
+ },
+ {
+  "id": "C005",
+  "nome": "ENOTECA DEMO 005",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010050003",
+  "comune": "Bra",
+  "prov": "CN"
+ },
+ {
+  "id": "C006",
+  "nome": "ENOTECA DEMO 006",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010060002",
+  "comune": "Savona",
+  "prov": "SV"
+ },
+ {
+  "id": "C007",
+  "nome": "ENOTECA DEMO 007",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010070001",
+  "comune": "Mondovì",
+  "prov": "CN",
+  "fine": "2025-08-18"
+ },
+ {
+  "id": "C008",
+  "nome": "ENOTECA DEMO 008",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010080000",
+  "comune": "Bra",
+  "prov": "CN"
+ },
+ {
+  "id": "C009",
+  "nome": "ENOTECA DEMO 009",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010090009",
+  "comune": "Cuneo",
+  "prov": "CN"
+ },
+ {
+  "id": "C010",
+  "nome": "ENOTECA DEMO 010",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010100006",
+  "comune": "Asti",
+  "prov": "AT"
+ },
+ {
+  "id": "C011",
+  "nome": "ENOTECA DEMO 011",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010110005",
+  "comune": "Torino",
+  "prov": "TO"
+ },
+ {
+  "id": "C012",
+  "nome": "ENOTECA DEMO 012",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010120004",
+  "comune": "Alba",
+  "prov": "CN"
+ },
+ {
+  "id": "C013",
+  "nome": "ENOTECA DEMO 013",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010130003",
+  "comune": "Genova",
+  "prov": "GE",
+  "fine": "2025-04-22"
+ },
+ {
+  "id": "C014",
+  "nome": "ENOTECA DEMO 014",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010140002",
+  "comune": "Savona",
+  "prov": "SV"
+ },
+ {
+  "id": "C015",
+  "nome": "ENOTECA DEMO 015",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010150001",
+  "comune": "Savona",
+  "prov": "SV"
+ },
+ {
+  "id": "C016",
+  "nome": "ENOTECA DEMO 016",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010160000",
+  "comune": "Asti",
+  "prov": "AT",
+  "fine": "2025-06-27"
+ },
+ {
+  "id": "C017",
+  "nome": "ENOTECA DEMO 017",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010170009",
+  "comune": "Torino",
+  "prov": "TO"
+ },
+ {
+  "id": "C018",
+  "nome": "ENOTECA DEMO 018",
+  "tipo": "Enoteca",
+  "paese": "IT",
+  "piva": "00010180008",
+  "comune": "Asti",
+  "prov": "AT"
+ },
+ {
+  "id": "C019",
+  "nome": "RISTORANTE DEMO 019",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010190007",
+  "comune": "Alba",
+  "prov": "CN"
+ },
+ {
+  "id": "C020",
+  "nome": "RISTORANTE DEMO 020",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010200004",
+  "comune": "Torino",
+  "prov": "TO"
+ },
+ {
+  "id": "C021",
+  "nome": "RISTORANTE DEMO 021",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010210003",
+  "comune": "Mondovì",
+  "prov": "CN"
+ },
+ {
+  "id": "C022",
+  "nome": "RISTORANTE DEMO 022",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010220002",
+  "comune": "Milano",
+  "prov": "MI"
+ },
+ {
+  "id": "C023",
+  "nome": "RISTORANTE DEMO 023",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010230001",
+  "comune": "Alba",
+  "prov": "CN"
+ },
+ {
+  "id": "C024",
+  "nome": "RISTORANTE DEMO 024",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010240000",
+  "comune": "Asti",
+  "prov": "AT",
+  "fine": "2025-06-05"
+ },
+ {
+  "id": "C025",
+  "nome": "RISTORANTE DEMO 025",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010250009",
+  "comune": "Mondovì",
+  "prov": "CN"
+ },
+ {
+  "id": "C026",
+  "nome": "RISTORANTE DEMO 026",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010260008",
+  "comune": "Mondovì",
+  "prov": "CN"
+ },
+ {
+  "id": "C027",
+  "nome": "RISTORANTE DEMO 027",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010270007",
+  "comune": "Alba",
+  "prov": "CN",
+  "fine": "2025-05-13"
+ },
+ {
+  "id": "C028",
+  "nome": "RISTORANTE DEMO 028",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010280006",
+  "comune": "Alba",
+  "prov": "CN"
+ },
+ {
+  "id": "C029",
+  "nome": "RISTORANTE DEMO 029",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010290005",
+  "comune": "Alba",
+  "prov": "CN"
+ },
+ {
+  "id": "C030",
+  "nome": "RISTORANTE DEMO 030",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010300002",
+  "comune": "Alba",
+  "prov": "CN"
+ },
+ {
+  "id": "C031",
+  "nome": "RISTORANTE DEMO 031",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010310001",
+  "comune": "Asti",
+  "prov": "AT"
+ },
+ {
+  "id": "C032",
+  "nome": "RISTORANTE DEMO 032",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010320000",
+  "comune": "Alba",
+  "prov": "CN"
+ },
+ {
+  "id": "C033",
+  "nome": "RISTORANTE DEMO 033",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010330009",
+  "comune": "Bra",
+  "prov": "CN"
+ },
+ {
+  "id": "C034",
+  "nome": "RISTORANTE DEMO 034",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010340008",
+  "comune": "Milano",
+  "prov": "MI"
+ },
+ {
+  "id": "C035",
+  "nome": "RISTORANTE DEMO 035",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010350007",
+  "comune": "Milano",
+  "prov": "MI"
+ },
+ {
+  "id": "C036",
+  "nome": "RISTORANTE DEMO 036",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010360006",
+  "comune": "Asti",
+  "prov": "AT"
+ },
+ {
+  "id": "C037",
+  "nome": "RISTORANTE DEMO 037",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010370005",
+  "comune": "Alba",
+  "prov": "CN"
+ },
+ {
+  "id": "C038",
+  "nome": "RISTORANTE DEMO 038",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010380004",
+  "comune": "Savona",
+  "prov": "SV"
+ },
+ {
+  "id": "C039",
+  "nome": "RISTORANTE DEMO 039",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010390003",
+  "comune": "Asti",
+  "prov": "AT"
+ },
+ {
+  "id": "C040",
+  "nome": "RISTORANTE DEMO 040",
+  "tipo": "Ristorante",
+  "paese": "IT",
+  "piva": "00010400000",
+  "comune": "Bra",
+  "prov": "CN",
+  "fine": "2025-06-08"
+ },
+ {
+  "id": "C041",
+  "nome": "DISTRIBUTORE DEMO 041",
+  "tipo": "Distributore",
+  "paese": "IT",
+  "piva": "00010410009",
+  "comune": "Genova",
+  "prov": "GE"
+ },
+ {
+  "id": "C042",
+  "nome": "DISTRIBUTORE DEMO 042",
+  "tipo": "Distributore",
+  "paese": "IT",
+  "piva": "00010420008",
+  "comune": "Cuneo",
+  "prov": "CN"
+ },
+ {
+  "id": "C043",
+  "nome": "DISTRIBUTORE DEMO 043",
+  "tipo": "Distributore",
+  "paese": "IT",
+  "piva": "00010430007",
+  "comune": "Mondovì",
+  "prov": "CN"
+ },
+ {
+  "id": "C044",
+  "nome": "DISTRIBUTORE DEMO 044",
+  "tipo": "Distributore",
+  "paese": "IT",
+  "piva": "00010440006",
+  "comune": "Asti",
+  "prov": "AT"
+ },
+ {
+  "id": "C045",
+  "nome": "DISTRIBUTORE DEMO 045",
+  "tipo": "Distributore",
+  "paese": "IT",
+  "piva": "00010450005",
+  "comune": "Torino",
+  "prov": "TO"
+ },
+ {
+  "id": "C046",
+  "nome": "DISTRIBUTORE DEMO 046",
+  "tipo": "Distributore",
+  "paese": "IT",
+  "piva": "00010460004",
+  "comune": "Mondovì",
+  "prov": "CN"
+ },
+ {
+  "id": "C047",
+  "nome": "HOTEL DEMO 047",
+  "tipo": "Hotel",
+  "paese": "IT",
+  "piva": "00010470003",
+  "comune": "Savona",
+  "prov": "SV"
+ },
+ {
+  "id": "C048",
+  "nome": "HOTEL DEMO 048",
+  "tipo": "Hotel",
+  "paese": "IT",
+  "piva": "00010480002",
+  "comune": "Torino",
+  "prov": "TO"
+ },
+ {
+  "id": "C049",
+  "nome": "HOTEL DEMO 049",
+  "tipo": "Hotel",
+  "paese": "IT",
+  "piva": "00010490001",
+  "comune": "Torino",
+  "prov": "TO"
+ },
+ {
+  "id": "C050",
+  "nome": "HOTEL DEMO 050",
+  "tipo": "Hotel",
+  "paese": "IT",
+  "piva": "00010500007",
+  "comune": "Mondovì",
+  "prov": "CN"
+ },
+ {
+  "id": "C051",
+  "nome": "HOTEL DEMO 051",
+  "tipo": "Hotel",
+  "paese": "IT",
+  "piva": "00010510006",
+  "comune": "Genova",
+  "prov": "GE",
+  "fine": "2025-04-14"
+ },
+ {
+  "id": "C052",
+  "nome": "HOTEL DEMO 052",
+  "tipo": "Hotel",
+  "paese": "IT",
+  "piva": "00010520005",
+  "comune": "Cuneo",
+  "prov": "CN"
+ },
+ {
+  "id": "C053",
+  "nome": "GASTRONOMIA DEMO 053",
+  "tipo": "Gastronomia",
+  "paese": "IT",
+  "piva": "00010530004",
+  "comune": "Mondovì",
+  "prov": "CN"
+ },
+ {
+  "id": "C054",
+  "nome": "GASTRONOMIA DEMO 054",
+  "tipo": "Gastronomia",
+  "paese": "IT",
+  "piva": "00010540003",
+  "comune": "Cuneo",
+  "prov": "CN"
+ },
+ {
+  "id": "C055",
+  "nome": "GASTRONOMIA DEMO 055",
+  "tipo": "Gastronomia",
+  "paese": "IT",
+  "piva": "00010550002",
+  "comune": "Cuneo",
+  "prov": "CN"
+ },
+ {
+  "id": "C056",
+  "nome": "GASTRONOMIA DEMO 056",
+  "tipo": "Gastronomia",
+  "paese": "IT",
+  "piva": "00010560001",
+  "comune": "Asti",
+  "prov": "AT"
+ },
+ {
+  "id": "C057",
+  "nome": "GASTRONOMIA DEMO 057",
+  "tipo": "Gastronomia",
+  "paese": "IT",
+  "piva": "00010570000",
+  "comune": "Alba",
+  "prov": "CN"
+ },
+ {
+  "id": "C058",
+  "nome": "GASTRONOMIA DEMO 058",
+  "tipo": "Gastronomia",
+  "paese": "IT",
+  "piva": "00010580009",
+  "comune": "Torino",
+  "prov": "TO"
+ },
+ {
+  "id": "C059",
+  "nome": "GASTRONOMIA DEMO 059",
+  "tipo": "Gastronomia",
+  "paese": "IT",
+  "piva": "00010590008",
+  "comune": "Cuneo",
+  "prov": "CN"
+ },
+ {
+  "id": "C060",
+  "nome": "GASTRONOMIA DEMO 060",
+  "tipo": "Gastronomia",
+  "paese": "IT",
+  "piva": "00010600005",
+  "comune": "Torino",
+  "prov": "TO"
+ },
+ {
+  "id": "C061",
+  "nome": "DISTRIBUTORE DEMO 061",
+  "tipo": "Distributore",
+  "paese": "DE",
+  "piva": "80488349600",
+  "comune": "Monaco di Baviera",
+  "prov": null
+ },
+ {
+  "id": "C062",
+  "nome": "ENOTECA DEMO 062",
+  "tipo": "Enoteca",
+  "paese": "DE",
+  "piva": "88445114300",
+  "comune": "Amburgo",
+  "prov": null
+ },
+ {
+  "id": "C063",
+  "nome": "DISTRIBUTORE DEMO 063",
+  "tipo": "Distributore",
+  "paese": "NL",
+  "piva": "24416031400",
+  "comune": "Amsterdam",
+  "prov": null
+ },
+ {
+  "id": "C064",
+  "nome": "ENOTECA DEMO 064",
+  "tipo": "Enoteca",
+  "paese": "BE",
+  "piva": "97525852000",
+  "comune": "Bruxelles",
+  "prov": null
+ }
+]
