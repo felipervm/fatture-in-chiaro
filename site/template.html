@@ -100,7 +100,7 @@ footer{margin-top:60px;border-top:1px solid var(--line);padding-top:18px;font-si
  <div class="card">
   <ul class="clean">
    <li><b>Provato sui file ufficiali.</b> Oltre alle fatture dimostrative, lo strumento legge i file di esempio pubblicati per la FatturaPA (FPR01, FPR02, FPR03).</li>
-   <li><b>Problemi inseriti apposta.</b> Nelle fatture dimostrative ho inserito <span id="n-inseriti"></span> problemi per verificare che i controlli li trovino. Li trovano tutti, tranne una differenza di 1 centesimo che è un normale arrotondamento.</li>
+   <li><b>Problemi inseriti apposta.</b> Nelle fatture dimostrative ho inserito <span id="n-inseriti"></span> problemi per verificare che i controlli li trovino: li trovano tutti. Una differenza di 1 centesimo, invece, è considerata un arrotondamento e non viene segnalata.</li>
    <li><b>Test automatici.</b> Riconciliazione dei totali (mesi, clienti e prodotti danno lo stesso netto), lettura dei file ufficiali, problemi trovati.</li>
    <li><b>Strumenti:</b> Python, lxml, SQLite, pytest. Il codice è su <a href="https://github.com/felipervm/fatture-in-chiaro">GitHub</a>.</li>
   </ul>
